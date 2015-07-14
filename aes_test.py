@@ -1,3 +1,4 @@
-from ne_cryptor import *
+#! /usr/bin/python
+#from ne_cryptor import *
 
-print aes_encryptor('','')
+print 'hello world!'
